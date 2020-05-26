@@ -3,5 +3,5 @@ Data Engineering Techniques
 
 - Web scrapping
 - Pyspark pipelines
-- Dataingestion pipelines
+- Data ingestion pipelines
 -
